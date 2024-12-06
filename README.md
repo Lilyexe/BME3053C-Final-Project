@@ -6,7 +6,7 @@ Part of 2018 Data Science Bowl Dataset: https://drive.google.com/drive/folders/1
 
 Steps:
 1. Open link of the dataset
-2. Create a folder in personal drive called "BME3053c_Final"
+2. Create a folder inside personal drive called "BME3053c_Final"
 3. Create a shortcut to the shared dataset folder in the "BME3053c_Final" folder
 <br>      a. Make sure shortcut links to the folder "data" inside the "BME3053c_Final" folder
 5. Open the Final Updated code in Colab
