@@ -13,4 +13,6 @@ Steps:
 6. Permit access to Google Account and Drive to access the dataset
 7. Run all the cells in order to get the results
 
+Written Report: https://docs.google.com/document/d/1eFAIHWt5GG50d7GYqs7btLavSGyqk3h32liDAsw_I6k/edit?tab=t.0
+
 Presentation and Code Demo: https://youtu.be/VTv8otMp6Ak
